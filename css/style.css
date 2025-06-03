@@ -41,3 +41,24 @@ footer {
 .navbar-light .navbar-toggler-icon {
   background-color: white;
 }
+
+#context {
+  display: inline-block;
+  color: black;
+  font-family: "Courier New", Courier;
+  font-size: 0.8rem;
+  padding: 10px 20px;
+  border: 3px solid black;
+  box-shadow: 3px 3px 0 black;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+
+#resultado {
+  color: black;
+  font-family: "Courier New", Courier;
+  font-size: 0.8rem;
+  padding: 10px 20px;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
